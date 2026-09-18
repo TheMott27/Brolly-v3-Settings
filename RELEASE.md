@@ -1,13 +1,15 @@
-# Brolly v3.2.0
+# Brolly Settings v3.3.0
 
 ## Release notes
 
-THIS WATCH IS ROUND ROUND PEBBLE RIGHT ROUND
-LIKE A NORMAL WATCH ITS ROUND ROUND WATCH ROUND
-Yeah I planned ahead for the first time in my life and made this baby Round 2 ready and back compatible with Time Round.
-Added Roman numeral font options for my ancient Italian posse WUDDUUUPP!
-Other various fixy fixes.
+I can't even remember what I've changed.
+Generally overhauled code?
+Better date/temp positioning?
+New Roman numeral fonts?
+Settings page cleaned up?
+Better battery?
+This isn't a joke I can't even remember I've changed but let's just assume I've done good work and give me a big round of applause. Thankyou, thankyou, you're too kind.
 
 ## Release scope
 
-This public main release promotes the approved v3 testing work, including Round 2 and Time Round support, Roman Sans and Roman Serif numeral options, the corrected Roman Sans Size 1 light-weight resource, isolated public-main settings routing, and the maintenance and battery-efficiency cleanups.
+The public v3.3.0 watchface uses the isolated `/v3.3.0/` settings route. This release keeps the existing v3.2.0 root endpoint unchanged, labels the matching weather-icon mode “Match number size (beta),” and makes Custom at Icon Size 3 the default selection.
